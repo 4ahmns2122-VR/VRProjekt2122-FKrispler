@@ -6,12 +6,11 @@ using UnityEngine.Audio;
 public class Mission3_Muell : MonoBehaviour
 {
     public GameObject waffe;
+    public Rigidbody waffeRigid;
 
     void Start()
     {
-
         waffe.SetActive(false);
-
     }
     private void OnTriggerEnter(Collider other)
     {
@@ -21,6 +20,5 @@ public class Mission3_Muell : MonoBehaviour
             print("Mission3 completed");
             waffe.SetActive(true);
         }
-
     }
 }

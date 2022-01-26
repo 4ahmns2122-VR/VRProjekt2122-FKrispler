@@ -6,10 +6,9 @@ Das Spiel erzählt die tragischeGeschichte, ein arbeitsloser Alkoholiker:Es pass
 ### Milestones
 1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
 
-2. Meilenstein1.AufgabeSchaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: Geld selbst machen/ herunterladen -geschaft (wird derzeit im repository nicht angezeit weil push fehler!!)
+2. Meilenstein1.AufgabeSchaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: Geld selbst machen/ herunterladen -geschaft 
 
-3.AufgabeSchaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffeselbstmachen/ herunterladenAlle Sounds, die nicht Optional sind,einbetten. -geschaft (wird derzeit im repository nicht angezeit weil push fehler!!)
-
+3.AufgabeSchaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffeselbstmachen/ herunterladenAlle Sounds, die nicht Optional sind,einbetten. -geschaft 
 
 ### Development platform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio 2019
@@ -24,15 +23,15 @@ You need a VR headset in this case an Oculus Rift
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
 ### Visuals: 
-selbst gemacht: AUTOMAT und SCHALE ###VIDEO UND BILDER NICHT VERFÜGBAR WEIL PUSH FEHLER!!!
+selbst gemacht: AUTOMAT und SCHALE, "BILDER WERDEN HINZUGEFÜGT"
 
 ### Third party material: 
 Figuren, Wände, Waffe, Flasche, Tür, Fenster
 
 ### Limitations/Problems: 
-Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher einen Push-Fehler und kann nicht pushen), deshalb ist das Projet online nicht auf dem neusten stand. Genauer gesagt liegt es um die 20 commits hinten. 
+Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher einen Push-Fehler und kann nicht pushen), deshalb ist das Projet online nicht auf dem neusten stand. Genauer gesagt liegt es um die 20 commits hinten. -Problem wurde behoben
 
 ### Lessons Learned:
-Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt triggern lassen, Allgemein Trigger, und Collisions, Kamera Wechseln, Sound Abspielen zu gewünschten Punkt, Athmospheren erstellen, Sound in Unity, XR-Interaction Toolkit umgehen
+Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt triggern lassen, Allgemein Trigger, und Collisions, Kamera Wechseln, Sound Abspielen zu gewünschten Punkt, Athmospheren erstellen, Sound in Unity, XR-Interaction Toolkit umgehen, git Push-Fehler fixen
 
 Copyright by FKrispler

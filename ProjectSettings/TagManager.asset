@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Hand
   - Coin
+  - Waffe
   layers:
   - Default
   - TransparentFX

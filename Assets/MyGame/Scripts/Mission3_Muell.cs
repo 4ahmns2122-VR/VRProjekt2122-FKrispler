@@ -7,6 +7,7 @@ public class Mission3_Muell : MonoBehaviour
 {
     public GameObject waffe;
     public Rigidbody waffeRigid;
+    public GameObject trashAudio;
 
     void Start()
     {
@@ -19,6 +20,7 @@ public class Mission3_Muell : MonoBehaviour
         {
             print("Mission3 completed");
             waffe.SetActive(true);
+            trashAudio.SetActive(false);
         }
     }
 }

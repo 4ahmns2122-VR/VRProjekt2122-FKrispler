@@ -1,27 +1,38 @@
-# XRInteractionToolkitTemplate
+# Christmas Crimes
 
 ### Project description: 
-This project serves as sample project for spatial audio. 
-Explore sound in its basics in virtual reality (VR).
+Das Spiel erzählt die tragischeGeschichte, ein arbeitsloser Alkoholiker:Es passiert am 23.12 gegen Abend. (Spieler), der sich in dem Haus seiner Ehefrau regelrecht eingenistet hat, wird von seiner Frau vor die Tür gesetzt, weil sie die Situation mit ihm nicht mehr aushält.„Hier beginnt das Maze“. (Spieler) startet vor der verschlossenen Haustür. (Man befindet sich in einer keinen Stadt im Winter, es sind vereinzelt Schnee Haufen am Boden).Man hört aus der Ferne eine Stimme, diese wird immer lauter, sobald man sich ihr nähert. Machtman diesfindet man einen Bettler mit einer auffälligplatzierten geldschale vor ihm. (Spieler) nimmt sich das Geld, ohne zu zögern. Daraufhin hört man erneut aus der Ferne ein Geräusch. Es ist ein Getränke-Automat. (Spieler) wirft Geld in ihn hinein. Eine Dose kommt aus dem Automaten heraus. Danach folgt (Spieler) ein weiteres Geräusch, das von einem Mülleimer kommt. Aus der Situation heraus ist (Spieler) dazu gezwungen gegen den Mülleimer zu schlagen. Macht er dies kommt eine Waffe zum Vorschein. (Spieler) nimmt diese und geht zum ende vomMaze (dies ist die Hintertür des HausesderEhefrau).Geht (Spieler), durch diese Tür ist das Spiel zu Ende.
+
+### Milestones
+1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
+
+2. Meilenstein1.AufgabeSchaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: Geld selbst machen/ herunterladen -geschaft (wird derzeit im repository nicht angezeit weil push fehler!!)
+
+3.AufgabeSchaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffeselbstmachen/ herunterladenAlle Sounds, die nicht Optional sind,einbetten. -geschaft (wird derzeit im repository nicht angezeit weil push fehler!!)
+
 
 ### Development platform: 
-OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
+Windows 10, Unity 2020.3.18f1, Visual Studio 2019
+
+### Target platform
+Virtual Reality Oculus Rift
 
 ## Software/Hardware Requirements: 
 Oculus hardware requirements https://support.oculus.com/248749509016567/
-You need a VR headset in this case an Oculus Rift/Quest/Quest2
+You need a VR headset in this case an Oculus Rift
 
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
-### Target platform: 
-Oculus Rift/S; Quest/2
-
 ### Visuals: 
-Screenshots (concept and experience), Video
+selbst gemacht: AUTOMAT und SCHALE ###VIDEO UND BILDER NICHT VERFÜGBAR WEIL PUSH FEHLER!!!
 
 ### Third party material: 
-For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
+Figuren, Wände, Waffe, Flasche, Tür, Fenster
 
 ### Limitations/Problems: 
+Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher einen Push-Fehler und kann nicht pushen), deshalb ist das Projet online nicht auf dem neusten stand. Genauer gesagt liegt es um die 20 commits hinten. 
 
-Copyright by smeerws :)
+### Lessons Learned:
+Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt triggern lassen, Allgemein Trigger, und Collisions, Kamera Wechseln, Sound Abspielen zu gewünschten Punkt, Athmospheren erstellen, Sound in Unity, XR-Interaction Toolkit umgehen
+
+Copyright by FKrispler

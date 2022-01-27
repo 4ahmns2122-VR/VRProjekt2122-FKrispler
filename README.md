@@ -44,11 +44,8 @@ Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher ein
 ### Lessons Learned:
 Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt triggern lassen, Allgemein Trigger, und Collisions, Kamera Wechseln, Sound Abspielen zu gewünschten Punkt, Athmospheren erstellen, Sound in Unity, XR-Interaction Toolkit umgehen, git Push-Fehler fixen
 
-### OFFICAIL TRAILER; "Cristmas Crimes"
-<div>
-<img src="./Screenshots/vrprj2122-FKrispler.mp4" width="500">
-</div>
-*video does not work so far*
+### OFFICAIL TRAILER; "Cristmas Crimes" (Gameplay-Video)
+Derzeit in den Screenshorts vorhanden
 
 
 

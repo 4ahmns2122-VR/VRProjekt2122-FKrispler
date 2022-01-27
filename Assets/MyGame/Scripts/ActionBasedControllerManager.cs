@@ -6,10 +6,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.InputSystem;
 using UnityEngine.Serialization;
 
-/// <summary>
-/// Use this class to map input actions to each controller state (mode)
-/// and set up the transitions between controller states (modes).
-/// </summary>
+
 [AddComponentMenu("XR/Action Based Controller Manager")]
 [DefaultExecutionOrder(kControllerManagerUpdateOrder)]
 public class ActionBasedControllerManager : MonoBehaviour
@@ -33,9 +30,7 @@ public class ActionBasedControllerManager : MonoBehaviour
     [Serializable]
     public class StateExitEvent : UnityEvent<StateId> { }
 
-    /// <summary>
-    /// Use this class to create a controller state and set up its enter, update, and exit events.
-    /// </summary>
+
     [Serializable]
     public class ControllerState
     {
@@ -43,10 +38,7 @@ public class ActionBasedControllerManager : MonoBehaviour
         [Tooltip("Sets the controller state to be active. " +
                  "For the default states, setting this value to true will automatically update their StateUpdateEvent.")]
         bool m_Enabled;
-        /// <summary>
-        /// Sets the controller state to be active.
-        /// For the default states, setting this value to true will automatically update their <see cref="StateUpdateEvent"/>.
-        /// </summary>
+
         public bool enabled
         {
             get => m_Enabled;
@@ -56,9 +48,7 @@ public class ActionBasedControllerManager : MonoBehaviour
         [SerializeField]
         [HideInInspector]
         StateId m_Id;
-        /// <summary>
-        /// Sets the identifier of the <see cref="ControllerState"/> from all the optional Controller States that the <see cref="ActionBasedControllerManager"/> holds.
-        /// </summary>
+
         public StateId id
         {
             get => m_Id;
@@ -67,9 +57,7 @@ public class ActionBasedControllerManager : MonoBehaviour
 
         [SerializeField]
         StateEnterEvent m_OnEnter = new StateEnterEvent();
-        /// <summary>
-        /// The <see cref="StateEnterEvent"/> that will be invoked when entering the controller state.
-        /// </summary>
+
         public StateEnterEvent onEnter
         {
             get => m_OnEnter;

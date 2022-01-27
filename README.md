@@ -23,15 +23,31 @@ You need a VR headset in this case an Oculus Rift
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
 ### Visuals: 
-selbst gemacht: AUTOMAT und SCHALE, "BILDER WERDEN HINZUGEFÜGT"
+selbst gemacht: AUTOMAT und SCHALE, Muelleimer:
+<div>
+<img src="./Screenshots/Bettler.JPG" width="250">
+<img src="./Screenshots/Automat.JPG" width="250">
+<img src="./Screenshots/Muell.JPG" width="250">
+
+</div>
 
 ### Third party material: 
-Figuren, Wände, Waffe, Flasche, Tür, Fenster
+Figuren, Wände, Waffe, Flasche, Tür, Fenster:
+<div>
+<img src="./Screenshots/Bettler.JPG" width="250">
+<img src="./Screenshots/Automat.JPG" width="250">
 
+</div>
 ### Limitations/Problems: 
 Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher einen Push-Fehler und kann nicht pushen), deshalb ist das Projet online nicht auf dem neusten stand. Genauer gesagt liegt es um die 20 commits hinten. -Problem wurde behoben
 
 ### Lessons Learned:
 Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt triggern lassen, Allgemein Trigger, und Collisions, Kamera Wechseln, Sound Abspielen zu gewünschten Punkt, Athmospheren erstellen, Sound in Unity, XR-Interaction Toolkit umgehen, git Push-Fehler fixen
+
+### OFFICAIL TRAILER; "Cristmas Crimes"
+<div>
+<img src="./Screenshots/Bettler.JPG" width="250">
+</div>
+*video comming soon*
 
 Copyright by FKrispler

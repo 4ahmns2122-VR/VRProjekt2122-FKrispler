@@ -4,11 +4,11 @@
 Das Spiel erzählt die tragischeGeschichte, ein arbeitsloser Alkoholiker:Es passiert am 23.12 gegen Abend. (Spieler), der sich in dem Haus seiner Ehefrau regelrecht eingenistet hat, wird von seiner Frau vor die Tür gesetzt, weil sie die Situation mit ihm nicht mehr aushält.„Hier beginnt das Maze“. (Spieler) startet vor der verschlossenen Haustür. (Man befindet sich in einer keinen Stadt im Winter, es sind vereinzelt Schnee Haufen am Boden).Man hört aus der Ferne eine Stimme, diese wird immer lauter, sobald man sich ihr nähert. Machtman diesfindet man einen Bettler mit einer auffälligplatzierten geldschale vor ihm. (Spieler) nimmt sich das Geld, ohne zu zögern. Daraufhin hört man erneut aus der Ferne ein Geräusch. Es ist ein Getränke-Automat. (Spieler) wirft Geld in ihn hinein. Eine Dose kommt aus dem Automaten heraus. Danach folgt (Spieler) ein weiteres Geräusch, das von einem Mülleimer kommt. Aus der Situation heraus ist (Spieler) dazu gezwungen gegen den Mülleimer zu schlagen. Macht er dies kommt eine Waffe zum Vorschein. (Spieler) nimmt diese und geht zum ende vomMaze (dies ist die Hintertür des HausesderEhefrau).Geht (Spieler), durch diese Tür ist das Spiel zu Ende.
 
 ### Milestones
-1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
+  1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
 
-2. Meilenstein1.AufgabeSchaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: Geld selbst machen/ herunterladen -geschaft 
+  2. Meilenstein1.AufgabeSchaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: Geld selbst machen/ herunterladen -geschaft 
 
-3.AufgabeSchaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffeselbstmachen/ herunterladenAlle Sounds, die nicht Optional sind,einbetten. -geschaft 
+  3.AufgabeSchaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffeselbstmachen/ herunterladenAlle    Sounds, die nicht Optional sind,einbetten. -geschaft 
 
 ### Development platform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio 2019

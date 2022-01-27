@@ -48,6 +48,8 @@ Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt trigger
 <div>
 <img src="./Screenshots/vrprj2122-FKrispler.mp4" width="500">
 </div>
-*video comming soon*
+*video does not work so far*
+
+
 
 Copyright by FKrispler

@@ -38,6 +38,7 @@ Figuren, Wände, Waffe, Flasche, Tür, Fenster, Müllsäcke:
 <img src="./Screenshots/Automat.JPG" width="250">
 <img src="./Screenshots/Muell.JPG" width="250">
 </div>
+
 ### Limitations/Problems: 
 Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher einen Push-Fehler und kann nicht pushen), deshalb ist das Projet online nicht auf dem neusten stand. Genauer gesagt liegt es um die 20 commits hinten. -Problem wurde behoben
 

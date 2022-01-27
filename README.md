@@ -23,7 +23,7 @@ You need a VR headset in this case an Oculus Rift
 When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
 
 ### Visuals: 
-selbst gemacht: AUTOMAT und SCHALE, Muelleimer:
+selbst gemacht: AUTOMAT und SCHALE, Mülleimer:
 <div>
 <img src="./Screenshots/Bettler.JPG" width="250">
 <img src="./Screenshots/Automat.JPG" width="250">
@@ -32,11 +32,11 @@ selbst gemacht: AUTOMAT und SCHALE, Muelleimer:
 </div>
 
 ### Third party material: 
-Figuren, Wände, Waffe, Flasche, Tür, Fenster:
+Figuren, Wände, Waffe, Flasche, Tür, Fenster, Müllsäcke:
 <div>
 <img src="./Screenshots/Bettler.JPG" width="250">
 <img src="./Screenshots/Automat.JPG" width="250">
-
+<img src="./Screenshots/Muell.JPG" width="250">
 </div>
 ### Limitations/Problems: 
 Ich wusste nicht, dass ich nur 50 bzw 100 MB pushen kann (bekomme seit daher einen Push-Fehler und kann nicht pushen), deshalb ist das Projet online nicht auf dem neusten stand. Genauer gesagt liegt es um die 20 commits hinten. -Problem wurde behoben
@@ -46,7 +46,7 @@ Ein VR-Spiel machen, Etwas in VR greifen und es von einem anderen Objekt trigger
 
 ### OFFICAIL TRAILER; "Cristmas Crimes"
 <div>
-<img src="./Screenshots/Bettler.JPG" width="250">
+<img src="./Screenshots/vrprj2122-FKrispler.mp4" width="500">
 </div>
 *video comming soon*
 

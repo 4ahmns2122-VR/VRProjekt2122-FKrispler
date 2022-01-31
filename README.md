@@ -6,9 +6,12 @@ Das Spiel erzählt die tragischeGeschichte, ein arbeitsloser Alkoholiker:Es pass
 ### Milestones
   1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
 
-  2. Meilenstein1.AufgabeSchaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: Geld selbst machen/ herunterladen -geschaft 
+  2. Meilenstein Aufgabe Schaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: -geschafft
+  3. (Optional) Geld selbst machen/ herunterladen -geschaft 
 
-  3.AufgabeSchaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffeselbstmachen/ herunterladenAlle    Sounds, die nicht Optional sind,einbetten. -geschaft 
+  3. Alle Aufgaben Schaffen -geschafft
+    Alle Sounds, die nicht Optional sind,einbetten. -geschaft 
+  (Optional) Aufgabe Schaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und          Waffe   selbstmachen/herunterladen -geschafft
 
 ### Development platform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio 2019

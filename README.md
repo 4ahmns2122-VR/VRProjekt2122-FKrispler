@@ -16,6 +16,7 @@ Es passiert am 23.12 gegen Abend. (Spieler), der sich in dem Haus seiner Ehefrau
  3. Geld an Automat, Dose kommt raus; whiteboxen -geschafft <br>
       Alle Aufgaben Schaffen -geschafft <br> 
      Alle Sounds, die nicht Optional sind,einbetten. -geschaft <br>
+     <br>
     (Optional) Aufgabe Schaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffe 
     selbstmachen/herunterladen -geschafft <br>
     (Optional) alle weiteren Whiteboxes mit Assets austauschen -geschafft <br>

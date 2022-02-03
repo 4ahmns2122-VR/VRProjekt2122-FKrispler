@@ -8,8 +8,10 @@ Es passiert am 23.12 gegen Abend. (Spieler), der sich in dem Haus seiner Ehefrau
 ### Milestones
   1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
 <br>
+<br>
   2. Meilenstein Aufgabe Schaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: -geschafft <br>
     (Optional) Geld selbst machen/ herunterladen -geschaft 
+<br>
 <br>
  3. Geld an Automat, Dose kommt raus; whiteboxen -geschafft <br>
       Alle Aufgaben Schaffen -geschafft <br> 
@@ -29,7 +31,8 @@ Virtual Reality Oculus Rift
 Oculus hardware requirements https://support.oculus.com/248749509016567/
 You need a VR headset in this case an Oculus Rift
 
-When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. (!Enable in Advanced Settings Preview Packages).
+When downlaoded, you have compile time errors in the project. To solve them install the XR interaction toolkit package via the Package Manager. <br>
+(!Enable in Advanced Settings Preview Packages).
 
 ### Visuals: 
 selbst gemacht: AUTOMAT und SCHALE, Mülleimer:

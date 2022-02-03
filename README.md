@@ -7,16 +7,16 @@ Es passiert am 23.12 gegen Abend. (Spieler), der sich in dem Haus seiner Ehefrau
 
 ### Milestones
   1.Meilenstein Teleportieren als MovementMaze Template ist importiertDas Greifenfunktioniertbereits -geschaft 
-
-  2. Meilenstein Aufgabe Schaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: -geschafft |
+<br>
+  2. Meilenstein Aufgabe Schaffen: Geld aus schale des Bettlers nehmenWhite boxen Simple FormenOptional: -geschafft <br>
     (Optional) Geld selbst machen/ herunterladen -geschaft 
-
-  3. Geld an Automat, Dose kommt raus; whiteboxen -geschafft |
-      Alle Aufgaben Schaffen -geschafft |  
-     Alle Sounds, die nicht Optional sind,einbetten. -geschaft |
+<br>
+ 3. Geld an Automat, Dose kommt raus; whiteboxen -geschafft <br>
+      Alle Aufgaben Schaffen -geschafft <br> 
+     Alle Sounds, die nicht Optional sind,einbetten. -geschaft <br>
     (Optional) Aufgabe Schaffen:Gegen den Mülleimer schlagen daraufhin kommt eine Waffe zum Vorschein.White boxen Simple FormenOptional: Mülleimer und Waffe 
-    selbstmachen/herunterladen -geschafft |
-    (Optional) alle weiteren Whiteboxes mit Assets austauschen -geschafft
+    selbstmachen/herunterladen -geschafft <br>
+    (Optional) alle weiteren Whiteboxes mit Assets austauschen -geschafft <br>
 
 
 ### Development platform: 

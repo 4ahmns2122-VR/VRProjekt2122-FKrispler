@@ -39,11 +39,15 @@ selbst gemacht: AUTOMAT und SCHALE, Mülleimer:
 </div>
 
 ### Third party material: 
-Figuren, Wände, Waffe, Flasche, Tür, Fenster, Müllsäcke:
+Figuren, Wände, Waffe, Flasche, Tür, Fenster, Müllsäcke, Laterne, Steine und Holz, Baum, Verkaufsstand:
 <div>
 <img src="./Screenshots/Bettler.JPG" width="250">
 <img src="./Screenshots/Automat.JPG" width="250">
 <img src="./Screenshots/Muell.JPG" width="250">
+ <img src="./Screenshots/Laterne.JPG" width="250">
+<img src="./Screenshots/MASCHN.JPG" width="250">
+<img src="./Screenshots/Stone_Wood.JPG" width="250">
+    <img src="./Screenshots/Tree.JPG" width="250">
 </div>
 
 ### Limitations/Problems: 
